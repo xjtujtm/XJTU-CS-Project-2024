@@ -5,4 +5,3 @@ This is a project to provide accepted code for CS homework. Codes will be update
 ## Warning
 This project is for reference only.
 DO NOT copy codes directly! If you do so, author will not be responsible for it.
-Any directly copying behaviors will be seen as ACADEMIC DISHONESTY.

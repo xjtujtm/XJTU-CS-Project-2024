@@ -1,8 +1,5 @@
 # XJTU-CS-Project-2024
-### By xjtu_jtm
-## Introduction
-This is a project to provide accepted code for CS homework. Codes will be updated weekly. 
-## Warning
-This project is for reference only.
-DO NOT copy codes directly! If you do so, author will not be responsible for it.
-## Remember to STAR! This means a lot to me. THKS
+## 项目简介
+XJTU-CS-Project-2024是2024年西安交通大学计算机作业平台通过代码集，旨在为广大西交学子提供激发思路、具有帮助性、辅助性的通过代码集。在作业平台测试集、题目集无变动情况下，该代码集适用于任何学年。
+## 项目声明
+本项目仅供学习编程知识所用，不保证使用者使用该代码集内代码提交的通过性；直接使用后果自负。
